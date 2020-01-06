@@ -1,1 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
+@import url("https://fonts.googleapis.com/css?family=Changa+One|Kulim+Park&display=swa");
+@import '~bootstrap/dist/css/bootstrap.min.css';
+
+html, body {
+  margin: 0 !important;
+  padding: 0 !important;
+  height: 100%;
+  width: 100%;
+}

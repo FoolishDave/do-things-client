@@ -1,0 +1,21 @@
+.menu {
+  vertical-align: middle;
+  text-align: center;
+  width: 100%;
+  height: 100%;
+}
+
+.name-input {
+  padding-left: 35%;
+  padding-right: 35%;
+  padding-top: 15%;
+}
+
+h2 {
+  font-family: "Kulim Park";
+}
+
+.join-btn {
+  margin-top: 10px;
+  font-family: "Kulim Park";
+}

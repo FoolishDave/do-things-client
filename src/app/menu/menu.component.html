@@ -1,0 +1,8 @@
+<div class="menu">
+  <div class="name-input">
+    <h2>What's your name friend?</h2>
+    <input type="text" class="form-control" [(ngModel)]="name">
+    <button class="btn btn-primary join-btn" (click)="onPlay()">Join The Fun</button>
+    <label *ngIf="unver" style="color: red">Please enter a name friend!</label>
+  </div>
+</div>
